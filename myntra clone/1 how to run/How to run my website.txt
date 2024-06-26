@@ -1,0 +1,7 @@
+How to run my website
+
+Step 1:-First open vs code 
+Step 2:-Open Whole Myntra clone in Workspace panel in vs code 
+Step 3:-Download extension name LIVE SERVER // Ignore if already downloaded
+Step 4:-Then open index.html from Landingpage on vs code 
+Step 5:-Run Index.html by live server
